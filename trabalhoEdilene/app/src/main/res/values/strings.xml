@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Trabalho Edilene</string>
-    <string name="action_settings">Configurações</string>
-    <string name="botaook">Entrar</string>
+    <string name="app_name">CalendarAndroidFromHome</string>
+    <string name="action_settings">Settings</string>
 </resources>
